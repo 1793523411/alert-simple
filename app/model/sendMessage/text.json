@@ -1,0 +1,12 @@
+{
+    "msgtype": "text",
+    "text": {
+        "content": "测试-我就是我, @150XXXXXXXX 是不一样的烟火"
+    },
+    "at": {
+        "atMobiles": [
+            "150XXXXXXXX"
+        ], 
+        "isAtAll": false
+    }
+}

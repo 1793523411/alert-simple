@@ -1,0 +1,7 @@
+{
+    "msgtype": "image",
+    "image": {
+        "base64": "DATA",
+        "md5": "MD5"
+    }
+}
