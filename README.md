@@ -174,3 +174,5 @@ app/model/email
 | title | String |   标题   |
 | date  | String |   日期   |
 | text  | String |   正文   |
+
+
